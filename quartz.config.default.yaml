@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "MonkeZoubi/github.io/campaign"
+  baseUrl: "MonkeZoubi.github.io/campaign"
   ignorePatterns:
     - private
     - templates
