@@ -1,0 +1,6 @@
+#session
+In Session 2, our heroes spend the day exploring a bustling merchant event in [[Frostheld]]. [[Billiam]] attempts to haggle for bullets but quickly gets into a heated conflict with a Noxian gun trader. Seeing an opportunity, [[Octavian]] reveals his Noxian past to the party and steps in to smoothly mediate the dispute. 
+
+Meanwhile, [[Lela]] and [[Yahgo]] search for arrows. Lela manages to purchase some magically altered arrows from a skilled weaponsmith. Later, the duo tries their hand at an archery challenge hosted by the halfling merchant [[Brim]]. When Lela fails the challenge, they attempt to intimidate Brim into handing over the prize. When intimidation fails, they resort to simply stealing the arrows and making a run for it! 
+
+Amidst the chaos, [[Octavian]] and [[Ban Bread]] search for magical wares, leading Octavian to purchase a new magic robe. The eventful day concludes when the heroes are approached by the illusionist [[Whaghart]], who unexpectedly challenges them to a fight to test their capabilities on behalf of Ryze.

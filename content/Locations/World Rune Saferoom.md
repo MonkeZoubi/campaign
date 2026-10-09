@@ -1,0 +1,2 @@
+#location 
+This room contains four out of the five world runes that Ryze has collected. It is located in [[Freljord]] in an unidentified underground location, it has no gate and can only be accessed using means of teleportation.

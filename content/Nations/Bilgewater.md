@@ -1,0 +1,4 @@
+#nation
+**Bilgewater** is a lawless, chaotic port city tucked away in the Blue Flame Isles. It is a haven for pirate captains, smugglers, monster hunters, and those looking to disappear. Built from the scavenged remains of galleons and carved into sheer ocean cliffs, it is a place where fortunes are made and lost in a heartbeat.
+
+There is no formal law; disputes are settled with a cutlass or a pistol. The city's main economy revolves around hunting massive sea monsters to harvest their valuable bones, oils, and hides. Constantly looming over the city is the threat of the Harrowing—a deadly, undead-filled fog called the Black Mist that occasionally sweeps out from the nearby Shadow Isles.

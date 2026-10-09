@@ -1,0 +1,4 @@
+#player
+Originally from a [[Southern Noxus Town]], Octavian was separated from his parents at a young age to be trained by [[The Black Rose]] after exhibiting early signs of arcane gifts. During his grueling instruction, he developed an intuitive mastery of magic. However, he quietly rejected the Noxian warrior mentality, which demanded he detach completely from his past life. 
+
+Upon completing his training, Octavian returned to his childhood home to find his parents missing. Bitter towards the ruthless system that treated him as a mere cog in a machine, he broke protocol to infiltrate confidential archives, desperate for clues regarding his family's fate. While he found no trace of them, he accidentally uncovered highly sensitive intelligence. Now hunted by the Black Rose for his defiance, he lives in exile as a hermit wizard near the [[Border Of Noxus And Demacia]].

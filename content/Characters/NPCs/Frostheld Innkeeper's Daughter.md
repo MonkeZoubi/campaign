@@ -1,0 +1,2 @@
+#character 
+The daughter of the [[Frostheld Innkeeper]], she diligently helps her father run the [[Frostheld Inn]]. Despite her current life of domestic work, she harbors fierce ambitions of one day being recruited into the ranks of the [[Avarosan Clan]] archers.

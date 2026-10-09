@@ -1,0 +1,2 @@
+#faction
+**The Black Rose** is a highly secretive and ancient cabal that pulls the strings of [[Noxus]] from the shadows. Composed of elite Noxian aristocrats, powerful mages, and spies, they operate hidden deep beneath the Immortal Bastion. Rumored to be founded by an immortal sorceress, the organization manipulates the empire's leaders, orchestrates wars, and hoards dangerous magical artifacts to ensure Noxus continues to serve their hidden agenda.

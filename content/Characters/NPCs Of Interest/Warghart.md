@@ -1,0 +1,2 @@
+#character 
+Whaghart is a mysterious old man with the unique ability to craft lifelike illusions using only his voice. He shares a personal history with [[Ryze]] and can typically be found frequenting the [[Frostheld Inn]].

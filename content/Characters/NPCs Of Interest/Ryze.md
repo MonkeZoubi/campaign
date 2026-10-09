@@ -1,0 +1,4 @@
+#character 
+Ryze is a legendary and immensely powerful mage who survived the cataclysmic Rune Wars. These wars were ignited when fragments of primal magic, known as the World Runes, corrupted the minds of mortals, driving them to unleash devastating destruction. 
+
+Determined to prevent history from repeating itself, Ryze and his master embarked on a lifelong quest to secure and hide the World Runes. Tragically, his master ultimately succumbed to the Runes' corrupting influence, forcing Ryze to end his life. Since that dark day, Ryze has wandered Runeterra alone, shouldering the immense burden of collecting the remaining World Runes while fiercely resisting their intoxicating aura. He has successfully gathered four of the five runes, storing them safely within a highly protected, undisclosed location known as the [[World Rune Saferoom]].

@@ -1,0 +1,4 @@
+#nation
+**Ionia**, often called the First Lands, is an archipelago of unparalleled natural beauty and deep spiritual magic. Everything in Ionia—the trees, the mountains, the rivers—is alive with wild magic, and the people strive to live in perfect harmony with the land. 
+
+Historically, Ionia had no centralized government or standing army, relying on monasteries and spiritual leaders for guidance. However, the brutal **Noxian Invasion** shattered their peaceful way of life. Now, the region is divided between traditionalists who wish to return to spiritual balance, and radical militias who believe Ionia must militarize to protect itself.

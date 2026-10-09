@@ -1,0 +1,2 @@
+#player
+Ban Bread grew up in the city of [[Terbisia]], where Demacian society instilled in her a profound, unwavering sense of duty. After joining the ranks of the Mageseekers, she experienced a vivid, prophetic dream of a mysterious figure. To the party, this figure is known as Morgana, but to Demacians, she is revered and feared as the Veiled One. Blessed with strange powers connected to this entity, Ban Bread is now driven to research and unravel the truth behind the Veiled One's existence and the origin of her newfound abilities.

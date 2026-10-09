@@ -1,0 +1,4 @@
+#nation
+**Demacia** is a proud, lawful kingdom with a prestigious military history, built upon a foundation of white stone and gleaming ideals. It was founded as a refuge from the arcane devastation of the Rune Wars, and as a result, its architecture heavily utilizes **Petricite**—a specialized white wood-stone that absorbs magic. 
+
+Because of this history, magic is deeply feared and strictly outlawed. The **Mageseekers** act as the kingdom's inquisition, hunting down anyone who displays arcane abilities. While Demacia projects an image of justice, honor, and impenetrable defense, its harsh persecution of mages threatens to tear the kingdom apart from the inside.

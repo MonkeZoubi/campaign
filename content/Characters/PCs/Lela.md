@@ -1,0 +1,2 @@
+#player
+Lela is a proud member of the [[Avarosan Clan]] and shares a deep, enduring bond of friendship with [[Ashe]]. Though fiercely loyal to her clan and willing to defend her people, she pursues a humble and grounded profession as a skilled baker, providing warmth and sustenance to her community in the bitter cold of the Freljord.

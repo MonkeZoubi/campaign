@@ -1,0 +1,2 @@
+#player
+Billiam was born and raised in the cutthroat alleys of [[Bilgewater Bay]]. His father, a renowned captain, returned home in a drunken rage one fateful night and murdered Billiam's mother. Consumed by grief and anger, Billiam struck down his own father in retaliation and fled into the night. Wrongfully framed for the murder of both his parents, he survived on the unforgiving streets in disguise. His life changed course when he crossed paths with [[Miss Fortune]], who recognized his potential and took him into her trusted crew.

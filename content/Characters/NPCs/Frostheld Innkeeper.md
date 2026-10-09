@@ -1,0 +1,2 @@
+#character 
+The weary but resilient innkeeper of the [[Frostheld Inn]]. He suffered the tragic loss of his wife, who was a respected combat lorekeeper for their tribe. He now works tirelessly to provide for and protect his underage daughter, the [[Frostheld Innkeeper's Daughter]].

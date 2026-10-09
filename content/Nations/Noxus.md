@@ -1,0 +1,4 @@
+#nation
+**Noxus** is a brutal, expansionist empire built on a singular core philosophy: *strength above all*. Unlike other nations, Noxus is fiercely meritocratic. Anyone, regardless of their bloodline, wealth, or origin, can rise to the highest positions of power if they prove themselves capable—whether through martial prowess, magical talent, or cunning intellect.
+
+The empire sustains itself through constant conquest, absorbing other cultures and utilizing their strengths. However, beneath the surface of its aggressive military campaigns, Noxus is quietly manipulated by a secretive cabal of ancient mages known as **The Black Rose**, who pull the strings from the shadows.

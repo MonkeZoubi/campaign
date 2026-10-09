@@ -1,0 +1,2 @@
+#faction
+The **Avarosan Clan**, led by the revered Warmother [[Ashe]], is one of the largest and most influential factions in the [[Freljord]]. Unlike the brutal, survival-of-the-fittest mentality of rival tribes, the Avarosans believe in unity, agriculture, and diplomacy. Ashe seeks to unite the fractured Freljord into a single, peaceful coalition, drawing many refugees, outcasts, and weary warriors to her banner.

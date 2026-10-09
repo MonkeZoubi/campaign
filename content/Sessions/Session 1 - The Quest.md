@@ -1,0 +1,4 @@
+#session
+In Session 1, the powerful mage [[Ryze]] mysteriously contacts [[Lela]], [[Ban Bread]], [[Billiam]], [[Yahgo]], and [[Octavian]], enticing them with the promise of various gifts in exchange for undertaking a dangerous quest. He abruptly teleports the newly formed party to a snowy forest near the seasonal Freljordian village of [[Frostheld]]. 
+
+There, Ryze explains that a "cave" of his has become "infested" and urgently needs clearing. He gives the party a strict three-day deadline to complete the task, informing them that the innkeeper in the nearby village is aware of their arrival and will provide food and shelter. Once Ryze departs, the heroes begin their trek toward the village but are suddenly ambushed by a pack of five massive wolves. After a fierce battle, the party emerges victorious and finally makes it, exhausted, to the warmth of the [[Frostheld Inn]].

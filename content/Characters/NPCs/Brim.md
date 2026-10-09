@@ -1,0 +1,2 @@
+#character 
+Brim is a shrewd halfling weapon merchant who operates a trading stand in [[Frostheld]]. Uniquely, he allows skilled marksmen to pay for his high-quality arrows by successfully completing a custom archery challenge instead of using coin.

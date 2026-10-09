@@ -1,0 +1,2 @@
+#player
+Hailing from [[Ionia]], Yahgo suffered a tragic past when his family was brutally murdered during the Noxian invasion. Seeking peace and purpose after this devastating loss, he found refuge at the [[Hirana Monastery]], where he now trains as a disciplined monk under the guidance of [[Lee Sin]].
