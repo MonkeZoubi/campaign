@@ -1,0 +1,1 @@
+#character Sarah Fortune is a young pirate captain from [[Bilgewater]]. Daughter to well known gun crafters, she lost her family after a broken deal for a pair of extrordinary flintknock pistols. Sarah, now in possesion of both pistols, captains the Syren. [[Billiam]] formerly accompanied the Syren's crew. 
